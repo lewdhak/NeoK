@@ -11,5 +11,5 @@ print(rf"""{Fore.MAGENTA}
 |  |  ||   [_ |     ||     |
 |  |  ||     ||     ||  .  |
 |__|__||_____| \___/ |__|\_|
-          Created by LewdHak
+          Created by Retr0
 {Fore.RESET}""")
